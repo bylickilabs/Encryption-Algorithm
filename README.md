@@ -41,7 +41,26 @@ The code is organized as follows:
 ## Example Usage
 
 ```plaintext
-...
+[x] Bylickilabs Encrypt Algorithm. [x]
+ • 0. English.
+ • 1. German.
+ • 2. Russian.
+ • 3. French.
+ • 4. Spanish.
+ • 5. Hindi.
+[?] Language - 1
+[x] German. [x]
+ • 0. Verschlüsselung.
+ • 1. Entschlüsselung.
+[?] Was möchten Sie tun?  0
+
+ --> Verschlüsselung <-- (~˘▾˘)~
+[+] Text Eingabe - Hello, world!
+[~] Offen - [5,333859].
+[~] Geschlossene - [66541,333859].
+
+ --> Ausgabe <--
+[204727, 219181, 146178, 146178, 50103, 323737, 168532, 296856, 50103, 163435, 146178, 255232, 73890]
 ```
 
 ## Disclaimer
