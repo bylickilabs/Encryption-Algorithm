@@ -78,3 +78,19 @@ def main():
 
 if __name__ == '__main__':
     main()
+    
+    define string == true()
+    define .py
+    
+    declare == .py
+    exit 
+    
+    {
+    variable == end(), endif(), else(), elseif();
+    
+if __variable__ == '__python__' == true
+
+else __variable__ == __if__' == true
+
+    }
+    end;
